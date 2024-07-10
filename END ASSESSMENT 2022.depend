@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1666269065 source:c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\src\date.cpp
+	"Date.h"
+	<iostream>
+
+1666248755 c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\include\date.h
+
+1667288496 source:c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\src\employee.cpp
+	"Employee.h"
+	<iostream>
+
+1667288496 c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\include\employee.h
+	<string>
+	<iostream>
+	<Person.h>
+
+1666973481 c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\include\person.h
+	<string>
+
+1666973481 source:c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\src\person.cpp
+	"Person.h"
+	<iostream>
+
+1667290242 source:c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\main.cpp
+	<iostream>
+	<iomanip>
+	"Employee.h"
+	"NonAcademicStuff.h"
+	"Person.h"
+	"Student.h"
+	"Teacher.h"
+	<string>
+	<stdbool.h>
+	<stdlib.h>
+
+1667288596 source:c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\src\nonacademicstuff.cpp
+	"NonAcademicStuff.h"
+	<iostream>
+	<fstream>
+
+1667146684 c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\include\nonacademicstuff.h
+	<string>
+	<Employee.h>
+
+1667288719 source:c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1667288719 c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\include\student.h
+	<string>
+	<Person.h>
+
+1667288596 source:c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\src\teacher.cpp
+	"Teacher.h"
+	<iostream>
+	<fstream>
+
+1667149418 c:\users\unathi lenkoe\desktop\end assessment 2022\end assessment 2022\include\teacher.h
+	<Employee.h>
+
